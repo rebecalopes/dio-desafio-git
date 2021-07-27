@@ -1,2 +1,4 @@
-# dio-desafio-git
-Desafio sobre git e github
+# Desafio Git - Digital Inovation One
+### Bootcamp Java - Iteris
+
+Repositório para fins de desafio de projeto sobre Git e GitHub
